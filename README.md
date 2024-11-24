@@ -1,2 +1,2 @@
 # safetyanalysis_HSPICE
-safetyanalysis_HSPICE
+The core focus of this project is using machine learning to enhance VDD prediction and circuit stability analysis. Through HSPICE simulations, a model is trained to automate VDD predictions while monitoring safety, crucial in optimizing modern digital circuits. The predictive model, based on Random Forest and neural networks, learns from historical data to recognize patterns in voltage behavior, providing digital circuit engineers with both accurate predictions and real-time safety guidance. This approach promotes an efficient, adaptive method to optimize digital circuit parameters, bridging machine learning with circuit engineering.
